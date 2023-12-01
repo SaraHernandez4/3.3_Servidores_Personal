@@ -12,14 +12,14 @@ Hernandez Saenz Sara Jazmin
 
 # Servidor 1: InfluxDB
 _Puerto: 8086_
-![]() 
-![]()  
+![](InfluxDB.png) 
+![](InfluxDB2.png)  
 
 # Servidor 2: Grafana
 _Puerto: 3000_
-![]()  
-![]()  
+![](Grafana.png)  
+![](Grafana2.png)  
 
 # Servidor 3: Prometheus
 _Puerto: 9090_
-![]()  
+![](Prometheus.png)  
